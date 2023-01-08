@@ -6,7 +6,7 @@
 </div>
 
 ## My languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ford-Narongrit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ford-Narongrit&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Ford-Narongrit)
 
 ## Contact
 <a target="_blank" href="mailto:narongrit.thammapalo.gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
